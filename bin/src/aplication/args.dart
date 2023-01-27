@@ -1,5 +1,4 @@
 import 'package:args/args.dart';
-
 import '../model/start_args_model.dart';
 
 class Args {
